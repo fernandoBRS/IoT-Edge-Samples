@@ -1,0 +1,10 @@
+c:\source\IoT-Edge-Samples\modules\simulated-devices\dotnet-core\FilterModule\bin\Debug\netcoreapp2.0\FilterModule.deps.json
+c:\source\IoT-Edge-Samples\modules\simulated-devices\dotnet-core\FilterModule\bin\Debug\netcoreapp2.0\FilterModule.runtimeconfig.json
+c:\source\IoT-Edge-Samples\modules\simulated-devices\dotnet-core\FilterModule\bin\Debug\netcoreapp2.0\FilterModule.runtimeconfig.dev.json
+c:\source\IoT-Edge-Samples\modules\simulated-devices\dotnet-core\FilterModule\bin\Debug\netcoreapp2.0\FilterModule.dll
+c:\source\IoT-Edge-Samples\modules\simulated-devices\dotnet-core\FilterModule\bin\Debug\netcoreapp2.0\FilterModule.pdb
+c:\source\IoT-Edge-Samples\modules\simulated-devices\dotnet-core\FilterModule\obj\Debug\netcoreapp2.0\FilterModule.csproj.CoreCompileInputs.cache
+c:\source\IoT-Edge-Samples\modules\simulated-devices\dotnet-core\FilterModule\obj\Debug\netcoreapp2.0\FilterModule.AssemblyInfoInputs.cache
+c:\source\IoT-Edge-Samples\modules\simulated-devices\dotnet-core\FilterModule\obj\Debug\netcoreapp2.0\FilterModule.AssemblyInfo.cs
+c:\source\IoT-Edge-Samples\modules\simulated-devices\dotnet-core\FilterModule\obj\Debug\netcoreapp2.0\FilterModule.dll
+c:\source\IoT-Edge-Samples\modules\simulated-devices\dotnet-core\FilterModule\obj\Debug\netcoreapp2.0\FilterModule.pdb
